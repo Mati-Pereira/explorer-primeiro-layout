@@ -17,7 +17,6 @@ https://mati-pereira.github.io/explorer-primeiro-layout/
 
 - HTML
 - CSS
-- Javascript
 
 
 ## Licença
