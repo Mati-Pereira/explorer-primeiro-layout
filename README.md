@@ -13,7 +13,7 @@ Simples layout de página.
 
 ## Demonstração
 
-https://mati-pereira.github.io/cronometro/
+https://mati-pereira.github.io/explorer-primeiro-layout/
 
 ## Stack utilizada
 
